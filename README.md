@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @point-o
-- I'm pretty new to programming.
+- Previous account: @pointsr
 - I'm interested in ML, algorithms and software development.
-- (C++, JS, Python)
-- I also like to go outside and enjoy life, so I won't be visiting this account much.
-- I suggest you do the same. Take a break every once in a while. :)
+- Moderate proficiency in C++, JS and Python.
+- Beginner proficiency in Rust and R.
