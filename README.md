@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @point-o
+- 👋 Hi, I’m Ryan
 - Previous account: @pointsr
 - I'm interested in ML, algorithms and software development.
 - Moderate proficiency in C++, JS and Python.
