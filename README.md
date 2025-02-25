@@ -1,5 +1,2 @@
-- 👋 Hi, I’m Ryan
-- Previous account: @pointsr
-- I'm interested in ML, algorithms and software development.
 - Moderate proficiency in C++, JS and Python.
-- Beginner proficiency in Rust and R.
+- Beginner proficiency in Rust.
